@@ -1,0 +1,41 @@
+# bytecode and cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# jupyter notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# testing and coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# os artifacts
+.DS_Store
+Thumbs.db
+
+# raw audio and large files (preserve gitkeeps)
+data/raw/*
+!data/raw/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
+
+# latex compilation artifacts
+docs/*.aux
+docs/*.log
+docs/*.out
+docs/*.toc
+docs/*.bbl
+docs/*.blg
+docs/*.synctex.gz
+
