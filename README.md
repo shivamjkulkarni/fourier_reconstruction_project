@@ -1,4 +1,4 @@
-# Acoustic Fourier Lab (`acoustic-fourier-lab`)
+# Acoustic Fourier Lab (`fourier_reconstruction_project`)
 
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -120,8 +120,8 @@ acoustic-fourier-lab/
 
 ### 1. Clone & Set Up Environment
 ```bash
-git clone https://github.com/your-username/acoustic-fourier-lab.git
-cd acoustic-fourier-lab
+git clone https://github.com/shivamjkulkarni/fourier_reconstruction_project.git
+cd fourier_reconstruction_project
 
 # create virtual environment
 python3 -m venv venv
@@ -225,7 +225,7 @@ If you use this repository or its derivations in your research or educational wo
   title={Applying the Discrete Fourier Transform to Decompose, Analyze, and Reconstruct the Harmonic Structure of a Plucked Guitar String},
   author={Acoustic Fourier Lab Contributors},
   year={2026},
-  howpublished={\url{https://github.com/your-username/acoustic-fourier-lab}}
+  howpublished={\url{https://github.com/shivamjkulkarni/fourier_reconstruction_project}}
 }
 ```
 
